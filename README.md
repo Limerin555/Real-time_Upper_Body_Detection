@@ -3,6 +3,8 @@ A Python script that detects human upper body in real-time.
 
 ## How It Works
 Using OpenCV's upperbody Haar Cascade for positive human upper body detection from a video source or live webcam feed.
+Whenever a positive is detected, it will highlight the detected positives with a green rectangular box,
+human objects will be highlighted with multiple boxes when multiple positives detected.
 
 ![Example 1](screenshots/Positives_1.JPG "Whenever a positive is detected, it will highlight the detected positives with a green rectangular box.")
 ![Example 2](screenshots/Positives_2.JPG "Highlighted with multiple boxes when multiple positives detected.")
