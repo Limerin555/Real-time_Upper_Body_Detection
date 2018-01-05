@@ -23,9 +23,9 @@ Install all dependencies before moving on.
 
 ### Run the Script
 To run the script just punch in
-'''
+```
 python real_time_upper_body_detection.py
-'''
+```
 Make necessary changes to the code to suit your needs.
 
 ## Acknowledgement
